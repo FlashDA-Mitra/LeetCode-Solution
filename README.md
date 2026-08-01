@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
