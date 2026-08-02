@@ -19,5 +19,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/FlashDA-Mitra/LeetCode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
